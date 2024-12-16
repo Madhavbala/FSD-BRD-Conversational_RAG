@@ -35,8 +35,8 @@ This Streamlit-based application allows users to upload FSD/BRD PDF files, gener
 
 4. Create a .env file in the root directory and add your Hugging Face and Groq API tokens:
 
-HF_TOKEN=<your_hugging_face_api_token>
-GROQ_API_KEY=<your_groq_api_key>
+   HF_TOKEN=<your_hugging_face_api_token>
+   GROQ_API_KEY=<your_groq_api_key>
 
 5. Run the application using Streamlit:
 
